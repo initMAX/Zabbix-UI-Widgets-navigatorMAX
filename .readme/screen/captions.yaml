@@ -1,0 +1,21 @@
+01-overview.png:
+  en: Connect dashboard navigation, host-group problems and dashboard pages in one overview.
+  cs: Propojte navigaci dashboardů, problémy skupin hostů a stránky dashboardů do jednoho přehledu.
+02-buttons.png:
+  en: Open each dashboard from a tile coloured by its configured problem filter.
+  cs: Otevřete dashboard z dlaždice obarvené podle nastaveného filtru problémů.
+03-host-groups.png:
+  en: Create tiles directly from host groups and see which groups have active problems.
+  cs: Vytvořte dlaždice přímo ze skupin hostů a sledujte, které skupiny mají aktivní problémy.
+04-list.png:
+  en: Browse related dashboards in a compact tree with live problem counts.
+  cs: Procházejte související dashboardy v kompaktním stromu s aktuálními počty problémů.
+05-dashboard-pages.png:
+  en: Choose Overview, Details or Trends directly from the dashboard tile.
+  cs: Vyberte Přehled, Detaily nebo Trendy přímo z dlaždice dashboardu.
+06-settings.png:
+  en: Select sources, create tiles and configure their layout in the native widget editor.
+  cs: Vyberte zdroje, vytvořte dlaždice a nastavte rozložení v nativním editoru widgetu.
+07-tile-editor.png:
+  en: Preview a tile and set its destination, page, icon and problem filter.
+  cs: Prohlédněte si náhled dlaždice a nastavte cíl, stránku, ikonu a filtr problémů.

@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-02",
+  "scope": "Review screenshots, not final release or video",
+  "screenshots": [
+    {
+      "file": "dashboard-pages-menu-2x.png",
+      "width": 2486,
+      "height": 540,
+      "sha256": "9dc5c3a32e7f538d6d121f3e81a9c7a4579c1d372796fa64415585aa38e8e447",
+      "native_device_scale_factor": 2,
+      "runtime_candidate": "final13-centered"
+    },
+    {
+      "file": "display-defaults-light-dark-2x.png",
+      "width": 2172,
+      "height": 654,
+      "sha256": "ec28a9cf055ef381cf1c69af11911db736375f6c6e8f0c15ab4d42a0c9e8a8a7",
+      "native_device_scale_factor": 2,
+      "runtime_candidate": "final13-centered"
+    },
+    {
+      "file": "free-source-selection-2x.png",
+      "width": 2172,
+      "height": 684,
+      "sha256": "330fc31ada37fd63a53f71c836ce29cd8699519c2ef05e0f96d400e476755236",
+      "native_device_scale_factor": 2
+    },
+    {
+      "file": "free-starter-grid-2x.png",
+      "width": 2482,
+      "height": 680,
+      "sha256": "84c4e684662ad1f756215661c98fe73d7a91f42c276a26f4fe7b770df7c15518",
+      "native_device_scale_factor": 2
+    },
+    {
+      "file": "hero-custom-icons-2x.png",
+      "width": 2486,
+      "height": 1100,
+      "sha256": "eb4d4d8dcfc7939ecbb46d9a8bea795f5d9ef135828979de7f41d0176cfb049f",
+      "native_device_scale_factor": 2,
+      "runtime_candidate": "final13-centered"
+    },
+    {
+      "file": "host-groups-problems-2x.png",
+      "width": 2486,
+      "height": 540,
+      "sha256": "f7f1d2e127ed40fc6d34055f8a061cb896a13e1db0c49e04249a653cf4923d08",
+      "native_device_scale_factor": 2,
+      "runtime_candidate": "final13-centered"
+    },
+    {
+      "file": "list-full.png",
+      "width": 2486,
+      "height": 1480,
+      "sha256": "84d9770accd22d27283e6ec60e635ce98565c009ea926d79f3712a8547e7ca46",
+      "native_device_scale_factor": 2
+    },
+    {
+      "file": "pro-custom-url-2x.png",
+      "width": 1400,
+      "height": 1460,
+      "sha256": "661af0f5f6e9f31172ef4f9fd7e8c1ec03eb1c7eff691773c34b4f5bdcee6b32",
+      "native_device_scale_factor": 2,
+      "runtime_candidate": "final13-centered"
+    },
+    {
+      "file": "pro-multivalue-problem-filters-2x.png",
+      "width": 1400,
+      "height": 2164,
+      "sha256": "4ec8b8ff32c5940f4586a8a6b602750defd16ffee5e99f28a534b99331c15248",
+      "native_device_scale_factor": 2,
+      "runtime_candidate": "final13-centered"
+    }
+  ],
+  "icon_style": "technical-v2",
+  "updated_screenshots": [
+    "dashboard-pages-menu-2x.png",
+    "display-defaults-light-dark-2x.png",
+    "hero-custom-icons-2x.png",
+    "host-groups-problems-2x.png",
+    "pro-custom-url-2x.png",
+    "pro-multivalue-problem-filters-2x.png"
+  ]
+}

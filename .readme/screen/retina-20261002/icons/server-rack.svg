@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+<title id="title">Server rack</title>
+<g stroke="#26394C" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter">
+  <rect x="24" y="12" width="48" height="72" rx="2" fill="#E2E7ED"/>
+  <path d="M29 12V84M67 12V84" stroke="#ABB8C5" stroke-width="1"/>
+  <rect x="31" y="19" width="34" height="16" rx="1" fill="#F6F8FA"/>
+  <rect x="31" y="40" width="34" height="16" rx="1" fill="#F6F8FA"/>
+  <rect x="31" y="61" width="34" height="16" rx="1" fill="#F6F8FA"/>
+  <path d="M36 24H52M36 29H52M36 45H52M36 50H52M36 66H52M36 71H52" stroke="#63778A" stroke-width="1.1"/>
+  <path d="M59 25V29M59 46V50M59 67V71" stroke="#448ABA" stroke-width="2.4"/>
+ </g>
+</svg>
