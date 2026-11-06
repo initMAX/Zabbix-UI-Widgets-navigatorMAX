@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+<title id="title">Storage / NAS</title>
+<g stroke="#26394C" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter">
+  <rect x="20" y="16" width="56" height="65" rx="2" fill="#E2E7ED"/>
+  <rect x="26" y="22" width="19" height="48" rx="1" fill="#F6F8FA"/>
+  <rect x="51" y="22" width="19" height="48" rx="1" fill="#F6F8FA"/>
+  <path d="M31 29H40V57H31ZM56 29H65V57H56Z" fill="#CED7E0" stroke="#7D90A1" stroke-width="1.1"/>
+  <path d="M33 35V51M58 35V51" stroke="#63778A" stroke-width="1"/>
+  <path d="M33 64H38M58 64H63" stroke="#448ABA" stroke-width="2"/>
+  <circle cx="48" cy="76" r="1.5" fill="#63778A" stroke="none"/>
+ </g>
+</svg>
