@@ -108,6 +108,8 @@ The FREE edition includes global and host dashboard selection with Include/Exclu
 
 navigatorMAX ships as GPG-signed `deb` and `rpm` packages from initMAX's own repository, in a FREE and a PRO build.
 
+Running the Zabbix frontend in Docker? The same repository serves an Alpine (`apk`) package, and the **Docker** tab of the Portal installer writes the Dockerfile block for your edition.
+
 **Easiest way - the guided installer on the Portal.** The installer renders the exact commands for your distribution, handles the PRO token and takes feedback:
 
 **[Open the guided installer on the Portal](https://portal.initmax.com/catalog/zabbix-navigatormax#how-to-install)**
