@@ -106,9 +106,9 @@ The FREE edition includes global and host dashboard selection with Include/Exclu
 
 ## Install
 
-navigatorMAX ships as GPG-signed `deb` and `rpm` packages from initMAX's own repository, in a FREE and a PRO build.
+navigatorMAX ships as GPG-signed `deb` / `rpm` packages for native installations and RSA-signed Alpine `apk` packages for Docker frontends, from initMAX's own repository, in a FREE and a PRO build.
 
-Running the Zabbix frontend in Docker? The same repository serves an Alpine (`apk`) package, and the **Docker** tab of the Portal installer writes the Dockerfile block for your edition.
+Running the Zabbix frontend in Docker? The **Docker** tab of the Portal installer prepares the Dockerfile block and build command for your edition. Alpine APK is the recommended method; DEB/RPM are also available for matching base images, or use a manual ZIP installation in a persistent volume. For package updates, rebuild your frontend image and recreate the container.
 
 **Easiest way - the guided installer on the Portal.** The installer renders the exact commands for your distribution, handles the PRO token and takes feedback:
 
@@ -159,7 +159,7 @@ Zabbix 8.0 compatibility is tested on 8.0.0rc2; the stable upstream release is p
 |:---|:---|
 | **Zabbix** | 6.0, 6.2, 6.4, 7.0, 7.2, 7.4 and 8.0 |
 | **PHP** | 7.4 or newer |
-| **OS families** | Debian and Ubuntu (`deb`), RHEL, Rocky, Alma and openSUSE (`rpm`) |
+| **OS families** | Debian and Ubuntu (`deb`), RHEL, Rocky, Alma and openSUSE (`rpm`); Alpine APK for Docker frontends |
 | **Editions** | FREE (AGPLv3) and PRO (commercial, one-time purchase) |
 | **Languages** | All 27 Zabbix display languages - the widget follows each user's own language setting |
 | **High availability** | Ready. No server-side component and no local state; install it on every frontend node of an HA cluster and any node can serve it |
